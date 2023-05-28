@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\lb3\lb3_Client\main.cpp(46,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\lb3\lb3_Client\main.cpp(73,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\lb3\lb3_Client\main.cpp(98,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\lb3\lb3_Client\main.cpp(21,10): warning C4101: 'request': unreferenced local variable
+  lb3_Client.vcxproj -> E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\lb3\lb3_Client\x64\Debug\lb3_Client.exe
